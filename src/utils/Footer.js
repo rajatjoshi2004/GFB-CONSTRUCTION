@@ -25,7 +25,7 @@ const Footer = ({ link1, link2, link3 }) => {
                 </div>
 
                 <div className=' w-[240px] text-center md:text-left md:text-[12px] xl:text-[20px] text-[16px] md:w-[220px] xl:w-[340px]'>
-                    <p><span className='text-[#EF6E16]'>License Number</span> - 1114879 </p>
+                    <p><span className='text-[#EF6E16]'>License Number</span> - #1114879 </p>
                     <p><span className='text-[#EF6E16]'>Email</span> - info@gfbconstruction.com</p>
                     <p><span className='text-[#EF6E16]'>Phone Number</span> - 559-389-3646</p>
                     <p> <span className='text-[#EF6E16]'>Location</span> - Fresno California</p>
