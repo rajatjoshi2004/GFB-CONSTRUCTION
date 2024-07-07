@@ -1,0 +1,98 @@
+.servicediv{
+    background: url('/public/Assets/Home/bg/services.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#commercial{
+    background: url('/public/Assets/Services/commercial_bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+}
+
+#residental{
+    background: url('/public/Assets/Services/residential_bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+}
+
+#integrated{
+    background: url('/public/Assets/Services/integrated_services_bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+}
+
+#philosiphy{
+    background: url('/public/Assets/Services/blur0.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+}
+
+#constructions{
+    background: url('/public/Assets/Services/blur2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+}
+
+#Choose{
+    background: url('/public/Assets/Services/blur-3.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+}
+
+@media screen and (max-width: 640px) {
+    .servicediv{
+        background:none
+    }
+    #commercial{
+        background:rgb(29,30,36);
+    }
+    #residental{
+        background: url('/public/Assets/Services/mob_residential_bg.png');
+        background-size: cover;
+        background-color: rgb(39, 38, 38);
+    }
+    #integrated{
+        background: url('/public/Assets/Services/mob_integrated_services_bg.png');
+        background:rgb(29,30,36);
+        background-repeat: no-repeat;
+    }
+
+    #philosiphy{
+        background: url('/public/Assets/Services/our_phio_bg.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-color: black;
+    }
+    
+    #constructions{
+        background: url('/public/Assets/Services/who_are_we_bg.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-color: black;
+    }
+    
+    #Choose{
+        background: url('/public/Assets/Services/why_choose_bg.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-color: black;
+    }
+}
+

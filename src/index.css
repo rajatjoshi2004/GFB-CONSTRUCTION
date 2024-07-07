@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+
+*{
+    /* padding: 100px */
+    /* font-family: 'Orelega One', cursive; */
+}
+
+html{
+    scroll-behavior: smooth
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
